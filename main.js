@@ -1,0 +1,1 @@
+console.loc('hello world')
